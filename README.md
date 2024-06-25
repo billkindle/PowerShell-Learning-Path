@@ -18,16 +18,13 @@
 ## Syllabus
 
 1. Work through [PowerShell in a Month of Lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches) book
-2. Work through [PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) book
-3. Watch Don Jones' Toolmaking Presentation
+1. Work through [PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) book
+1. Work through [The PowerShell Practice Primer](https://leanpub.com/psprimer)
+1. Watch Don Jones' Toolmaking Presentation
     - [Don Jones Toolmaking Part 1 3](https://www.youtube.com/watch?v=KprrLkjPq_c)
     - [Don Jones Toolmaking Part 2 3](https://www.youtube.com/watch?v=U849a17G7Ro)
     - [Don Jones Toolmaking Part 3 3](https://www.youtube.com/watch?v=GXdmjCPYYNM)
-4. Work through [The PowerShell Scripting and Toolmaking Book](https://leanpub.com/powershell-scripting-toolmaking)
-
-## Practice Materials
-
-[The PowerShell Practice Primer](https://leanpub.com/psprimer)
+1. Work through [The PowerShell Scripting and Toolmaking Book](https://leanpub.com/powershell-scripting-toolmaking)
 
 ## Reference Material
 
