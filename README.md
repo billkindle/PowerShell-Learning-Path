@@ -113,4 +113,4 @@ I highly recommend the [PowerShell.org](https://www.youtube.com/@PowershellOrg) 
 
 ## Misc
 
-[PowerShell Podcast](https://powershellpodcast.podbean.com/)
+[PowerShell Podcast](https://www.youtube.com/playlist?list=PL1mL90yFExsjUS8DRkzfLUcHds7vlxqgM)
