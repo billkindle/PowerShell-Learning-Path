@@ -111,7 +111,6 @@ I highly recommend the [PowerShell.org](https://www.youtube.com/@PowershellOrg) 
 - [PowerShell](https://discord.com/invite/powershell)
 - [WinAdmins - PowerShell Thread](https://discord.com/invite/winadmins)
 
-
 ## Misc
 
 [PowerShell Podcast](https://powershellpodcast.podbean.com/)
