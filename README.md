@@ -34,6 +34,7 @@
 - [Deep Dive into PowerShell's Core Building Blocks](https://powershell.one/fundamentals)
 - [PowerShell Strategies](https://powershell.one/strategies)
 - [Sample Code](https://powershell.one/code)
+- [Adam the Automator Tutorials](https://adamtheautomator.com/tutorials/?_tags=powershell)
 
 ## Topical
 
@@ -100,3 +101,9 @@ I highly recommend the [PowerShell.org](https://www.youtube.com/@PowershellOrg) 
 ## Misc
 
 [PowerShell Podcast](https://powershellpodcast.podbean.com/)
+
+## Blogs
+
+[PDQ](https://www.pdq.com/blog/categories/powershell/1/)
+[PowerShell.org](https://powershell.org/articles/)
+[The Lonely Administrator](https://jdhitsolutions.com/blog/)
