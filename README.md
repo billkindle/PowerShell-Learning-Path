@@ -98,13 +98,20 @@ I highly recommend the [PowerShell.org](https://www.youtube.com/@PowershellOrg) 
     - [Demo Talk](https://youtu.be/Uy5Qd9g25Dg)
     - [Documentation](https://psframework.org/documentation.html) (Yes it is spotty in places)
 
-## Misc
-
-[PowerShell Podcast](https://powershellpodcast.podbean.com/)
-
 ## Blogs
 
 - [Mike F. Robbins](https://mikefrobbins.com/tags/powershell/)
 - [PDQ](https://www.pdq.com/blog/categories/powershell/1/)
 - [PowerShell.org](https://powershell.org/articles/)
 - [The Lonely Administrator](https://jdhitsolutions.com/blog/)
+
+## Discord Servers
+
+- [PDQ - PowerShell Thread](https://discord.gg/pdq)
+- [PowerShell](https://discord.com/invite/powershell)
+- [WinAdmins - PowerShell Thread](https://discord.com/invite/winadmins)
+
+
+## Misc
+
+[PowerShell Podcast](https://powershellpodcast.podbean.com/)
