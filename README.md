@@ -97,6 +97,14 @@ I highly recommend the [PowerShell.org](https://www.youtube.com/@PowershellOrg) 
     - The best solution for PowerShell logging and so much more
     - [Demo Talk](https://youtu.be/Uy5Qd9g25Dg)
     - [Documentation](https://psframework.org/documentation.html) (Yes it is spotty in places)
+- [PlatyPS](https://github.com/PowerShell/platyPS)
+    - Create Markdown help from comment-based help
+    - Create updateable help (MAML format) from those Markdown files
+    - Check out these articles on how to format those Markdown files:
+        - [Schema](https://github.com/PowerShell/platyPS/blob/master/platyPS.schema.md)
+        - [Markdown best practices](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown)
+        - [PowerShell-Docs style guide](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/powershell-style-guide)
+        - [Editorial checklist](https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/editorial-checklist)
 
 ## Blogs
 
